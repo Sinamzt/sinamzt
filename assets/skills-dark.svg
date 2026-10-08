@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="344" viewBox="0 0 840 344" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest">
+<title id="t">Skills of Sina Mozaffari Tabar</title>
+<desc id="d">AI engineering, machine learning, programming, and infrastructure skills.</desc>
+<style>
+@keyframes rise{from{opacity:1;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pop{0%{opacity:1;transform:scale(.6)}70%{opacity:1;transform:scale(1.07)}100%{opacity:1;transform:scale(1)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes glow{from{opacity:.55}to{opacity:1}}
+.card{opacity:1;animation:rise .7s ease-out forwards}
+.pill{opacity:1;transform-box:fill-box;transform-origin:center;animation:pop .45s ease-out forwards}
+.ico{animation:float 3.6s ease-in-out infinite}
+.bar{animation:glow 2.4s ease-in-out infinite alternate}
+@media (prefers-reduced-motion:reduce){.card,.pill{opacity:1;animation:none}.ico,.bar{animation:none}}
+</style>
+<defs>
+<clipPath id="c0"><rect x="0" y="0" width="412" height="182" rx="16"/></clipPath>
+<clipPath id="c1"><rect x="428" y="0" width="412" height="182" rx="16"/></clipPath>
+<clipPath id="c2"><rect x="0" y="198" width="412" height="146" rx="16"/></clipPath>
+<clipPath id="c3"><rect x="428" y="198" width="412" height="146" rx="16"/></clipPath>
+</defs>
+<g class="card" style="animation-delay:0.00s">
+<rect x="0.5" y="0.5" width="411" height="181" rx="16" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#c0)"><rect class="bar" style="animation-delay:0.0s" x="0" y="0" width="412" height="4" fill="#7F77DD"/></g>
+<g class="ico" style="animation-delay:0.00s"><g transform="translate(22,21) scale(0.9167)" fill="none" stroke="#7F77DD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 4m0 2a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v4a2 2 0 0 1 -2 2h-8a2 2 0 0 1 -2 -2z"/><path d="M12 2v2"/><path d="M9 12v9"/><path d="M15 12v9"/><path d="M5 16l4 -2"/><path d="M15 14l4 2"/><path d="M9 18h6"/><path d="M10 8v.01"/><path d="M14 8v.01"/></g></g>
+<text x="54" y="37" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">AI engineering</text>
+<g class="pill" style="animation-delay:0.55s"><rect x="22.0" y="62" width="68.9" height="28" rx="14.0" fill="#EEEDFE"/><text x="56.4" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">Agents</text></g>
+<g class="pill" style="animation-delay:0.62s"><rect x="98.9" y="62" width="55.9" height="28" rx="14.0" fill="#EEEDFE"/><text x="126.8" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">RAG</text></g>
+<g class="pill" style="animation-delay:0.69s"><rect x="162.8" y="62" width="56.6" height="28" rx="14.0" fill="#EEEDFE"/><text x="191.1" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">MCP</text></g>
+<g class="pill" style="animation-delay:0.76s"><rect x="227.4" y="62" width="94.2" height="28" rx="14.0" fill="#EEEDFE"/><text x="274.5" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">Tool calling</text></g>
+<g class="pill" style="animation-delay:0.83s"><rect x="22.0" y="98" width="94.9" height="28" rx="14.0" fill="#EEEDFE"/><text x="69.5" y="116.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">LangGraph</text></g>
+<g class="pill" style="animation-delay:0.90s"><rect x="124.9" y="98" width="146.3" height="28" rx="14.0" fill="#EEEDFE"/><text x="198.1" y="116.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">Prompt engineering</text></g>
+<g class="pill" style="animation-delay:0.97s"><rect x="22.0" y="134" width="119.5" height="28" rx="14.0" fill="#EEEDFE"/><text x="81.7" y="152.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#3C3489">LLM evaluation</text></g>
+</g>
+<g class="card" style="animation-delay:0.18s">
+<rect x="428.5" y="0.5" width="411" height="181" rx="16" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#c1)"><rect class="bar" style="animation-delay:0.3s" x="428" y="0" width="412" height="4" fill="#D85A30"/></g>
+<g class="ico" style="animation-delay:0.45s"><g transform="translate(450,21) scale(0.9167)" fill="none" stroke="#D85A30" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15.5 13a3.5 3.5 0 0 0 -3.5 3.5v1a3.5 3.5 0 0 0 7 0v-1.8"/><path d="M8.5 13a3.5 3.5 0 0 1 3.5 3.5v1a3.5 3.5 0 0 1 -7 0v-1.8"/><path d="M17.5 16a3.5 3.5 0 0 0 0 -7h-.5"/><path d="M19 9.3v-2.8a3.5 3.5 0 0 0 -7 0"/><path d="M6.5 16a3.5 3.5 0 0 1 0 -7h.5"/><path d="M5 9.3v-2.8a3.5 3.5 0 0 1 7 0v10"/></g></g>
+<text x="482" y="37" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">Machine learning</text>
+<g class="pill" style="animation-delay:0.73s"><rect x="450.0" y="62" width="75.8" height="28" rx="14.0" fill="#FAECE7"/><text x="487.9" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">PyTorch</text></g>
+<g class="pill" style="animation-delay:0.80s"><rect x="533.8" y="62" width="91.8" height="28" rx="14.0" fill="#FAECE7"/><text x="579.7" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">scikit-learn</text></g>
+<g class="pill" style="animation-delay:0.87s"><rect x="633.6" y="62" width="71.2" height="28" rx="14.0" fill="#FAECE7"/><text x="669.2" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">NumPy</text></g>
+<g class="pill" style="animation-delay:0.94s"><rect x="712.8" y="62" width="72.7" height="28" rx="14.0" fill="#FAECE7"/><text x="749.2" y="80.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">Pandas</text></g>
+<g class="pill" style="animation-delay:1.01s"><rect x="450.0" y="98" width="62.7" height="28" rx="14.0" fill="#FAECE7"/><text x="481.4" y="116.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">CNNs</text></g>
+<g class="pill" style="animation-delay:1.08s"><rect x="520.7" y="98" width="107.4" height="28" rx="14.0" fill="#FAECE7"/><text x="574.5" y="116.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">Transformers</text></g>
+<g class="pill" style="animation-delay:1.15s"><rect x="636.2" y="98" width="94.9" height="28" rx="14.0" fill="#FAECE7"/><text x="683.6" y="116.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">Fine-tuning</text></g>
+<g class="pill" style="animation-delay:1.22s"><rect x="450.0" y="134" width="130.2" height="28" rx="14.0" fill="#FAECE7"/><text x="515.1" y="152.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#712B13">Model evaluation</text></g>
+</g>
+<g class="card" style="animation-delay:0.36s">
+<rect x="0.5" y="198.5" width="411" height="145" rx="16" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#c2)"><rect class="bar" style="animation-delay:0.6s" x="0" y="198" width="412" height="4" fill="#378ADD"/></g>
+<g class="ico" style="animation-delay:0.90s"><g transform="translate(22,219) scale(0.9167)" fill="none" stroke="#378ADD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 8l-4 4l4 4"/><path d="M17 8l4 4l-4 4"/><path d="M14 4l-4 16"/></g></g>
+<text x="54" y="235" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">Programming</text>
+<g class="pill" style="animation-delay:0.91s"><rect x="22.0" y="260" width="68.9" height="28" rx="14.0" fill="#E6F1FB"/><text x="56.4" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">Python</text></g>
+<g class="pill" style="animation-delay:0.98s"><rect x="98.9" y="260" width="55.1" height="28" rx="14.0" fill="#E6F1FB"/><text x="126.5" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">Java</text></g>
+<g class="pill" style="animation-delay:1.05s"><rect x="162.0" y="260" width="36.0" height="28" rx="14.0" fill="#E6F1FB"/><text x="180.0" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">C</text></g>
+<g class="pill" style="animation-delay:1.12s"><rect x="206.0" y="260" width="53.6" height="28" rx="14.0" fill="#E6F1FB"/><text x="232.7" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">SQL</text></g>
+<g class="pill" style="animation-delay:1.19s"><rect x="267.5" y="260" width="57.4" height="28" rx="14.0" fill="#E6F1FB"/><text x="296.2" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">Bash</text></g>
+<g class="pill" style="animation-delay:1.26s"><rect x="22.0" y="296" width="95.7" height="28" rx="14.0" fill="#E6F1FB"/><text x="69.8" y="314.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#0C447C">PowerShell</text></g>
+</g>
+<g class="card" style="animation-delay:0.54s">
+<rect x="428.5" y="198.5" width="411" height="145" rx="16" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#c3)"><rect class="bar" style="animation-delay:0.9s" x="428" y="198" width="412" height="4" fill="#888780"/></g>
+<g class="ico" style="animation-delay:1.35s"><g transform="translate(450,219) scale(0.9167)" fill="none" stroke="#888780" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"/><path d="M3 12m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v2a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"/><path d="M7 8l0 .01"/><path d="M7 16l0 .01"/></g></g>
+<text x="482" y="235" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#f0f6fc">Infrastructure</text>
+<g class="pill" style="animation-delay:1.09s"><rect x="450.0" y="260" width="58.9" height="28" rx="14.0" fill="#F1EFE8"/><text x="479.5" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">Linux</text></g>
+<g class="pill" style="animation-delay:1.16s"><rect x="516.9" y="260" width="69.6" height="28" rx="14.0" fill="#F1EFE8"/><text x="551.8" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">Docker</text></g>
+<g class="pill" style="animation-delay:1.23s"><rect x="594.6" y="260" width="43.6" height="28" rx="14.0" fill="#F1EFE8"/><text x="616.4" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">Git</text></g>
+<g class="pill" style="animation-delay:1.30s"><rect x="646.2" y="260" width="79.6" height="28" rx="14.0" fill="#F1EFE8"/><text x="686.0" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">MariaDB</text></g>
+<g class="pill" style="animation-delay:1.37s"><rect x="733.8" y="260" width="75.0" height="28" rx="14.0" fill="#F1EFE8"/><text x="771.3" y="278.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">FastAPI</text></g>
+<g class="pill" style="animation-delay:1.44s"><rect x="450.0" y="296" width="63.5" height="28" rx="14.0" fill="#F1EFE8"/><text x="481.8" y="314.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">CI/CD</text></g>
+<g class="pill" style="animation-delay:1.51s"><rect x="521.5" y="296" width="104.9" height="28" rx="14.0" fill="#F1EFE8"/><text x="574.0" y="314.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#444441">Azure basics</text></g>
+</g>
+</svg>
